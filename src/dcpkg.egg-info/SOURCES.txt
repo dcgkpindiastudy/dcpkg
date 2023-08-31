@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+src/DCAutoEDA.py
+src/DCutility.py
+src/__init__.py
+src/dcpkg.egg-info/PKG-INFO
+src/dcpkg.egg-info/SOURCES.txt
+src/dcpkg.egg-info/dependency_links.txt
+src/dcpkg.egg-info/top_level.txt

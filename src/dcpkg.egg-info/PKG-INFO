@@ -1,0 +1,22 @@
+Metadata-Version: 2.1
+Name: dcpkg
+Version: 0.0.3
+Summary: Packages to work for Machine learning and deep learning projects
+Author-email: Dwaipayan Chakroborti <dcgkpindiastudy@gmail.com>
+Project-URL: Homepage, https://github.com/users/dcgkpindiastudy/projects/2
+Project-URL: Bug Tracker, https://github.com/users/dcgkpindiastudy/projects/2/views/1
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# DCPKG
+
+## Install
+
+You can install this package from 
+
+pip install -i https://test.pypi.org/simple/ dcpkg
+
